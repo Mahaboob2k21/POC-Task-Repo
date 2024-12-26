@@ -1,0 +1,13 @@
+{
+  "name": "lambda-poc-task",
+  "version": "1.0.0",
+  "description": "Lambda function interacting with MySQL",
+  "main": "index.js",
+  "dependencies": {
+    "mysql2": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
